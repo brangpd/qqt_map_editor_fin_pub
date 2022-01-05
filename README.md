@@ -1,5 +1,7 @@
 # QQT地图编辑器FIN
 
+**游戏已宣布停服，此为最终版本。本编辑器源码在[这个仓库](https://github.com/brangpd/qqt_map_editor_fin)。**
+
 ![界面展示](pve50_4.png)
 
 QQ堂地图编辑器FIN（非官方）。
